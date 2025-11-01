@@ -2,7 +2,11 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <h1 className="text-red-400">Munem Mash</h1>
+    </>
+  );
 }
 
 export default App;
